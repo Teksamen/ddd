@@ -29,6 +29,9 @@
   .btn:hover {
     background: none;
     border-color: #fff; }
+  .btn:active {
+    background: none !important;
+    border-color: #fff !important; }
 
 .dropdown-toggle::after {
   content: none; }

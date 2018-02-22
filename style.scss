@@ -23,7 +23,10 @@
     &:hover{
         background: none;
         border-color: #fff;
-
+    }
+    &:active{
+        background: none !important;
+        border-color: #fff !important;
     }
 }
 .dropdown-toggle::after{
